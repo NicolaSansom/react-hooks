@@ -3,4 +3,5 @@
    need)
 2. When there is a computationally expensive function we can use lazy
    initialization. This is what the lazy initialization is all about. It allows
-   you to put that code in a function:
+   you to put that code in a function: example when pulling something from redux
+   or JSON conversion
